@@ -1,6 +1,6 @@
 {
 "name" : "Biker Buff",
-"description" : "Buffs the Armorer perk deck.",
+"description" : "Buffs the Biker perk deck.",
 "author" : "Oryo",
 "version" : "1.0",
 "priority" : 600,
