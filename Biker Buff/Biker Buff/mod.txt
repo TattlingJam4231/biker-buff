@@ -5,6 +5,14 @@
 "version" : "1.0",
 "priority" : 600,
 "blt_version" : 2,
+"updates" : [
+	{
+		"identifier" : "TattlingJam4231BikerBuff",
+		"host" : {
+			"meta" : "https://github.com/TattlingJam4231/gambler-buff/raw/master/Gambler%20Buff/meta.json"
+		}
+	}
+],
  
 "hooks" : [
 {
