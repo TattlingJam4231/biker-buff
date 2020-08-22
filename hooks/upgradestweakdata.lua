@@ -9,7 +9,7 @@ function UpgradesTweakData:_player_definitions(...)
 			0.2
 		}
 	}
-	self.values.player.less_armor_cooldown = {
+	self.values.player.less_armor_wild_cooldown = {
 		{
 			0.1,
 			0.2
